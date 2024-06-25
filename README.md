@@ -36,6 +36,17 @@ Submits the form.
 Verifies that the form submission is successful by checking for a confirmation message.
 
 
+## Sample Test Report
+
+A sample test report (`mochawesome.html`) has been included in the repository to view test results.
+
+To view the detailed test report:
+- Open `mochawesome-report/mochawesome.html` in your web browser.
+- Review test outcomes, including passed, failed, and pending tests.
+- Use this report to understand test execution details and any failures encountered.
+
+
+
 Notes
 Adjust the form URL and selectors in form_submission_test.js as per your specific form structure.
 Ensure that the form behaves predictably (confirmation messages, redirections, etc.) to avoid test failures.
